@@ -1,0 +1,10 @@
+E:\Users\0040838\source\repos\Atividdes\bin\Debug\Atividdes.exe.config
+E:\Users\0040838\source\repos\Atividdes\bin\Debug\Atividdes.exe
+E:\Users\0040838\source\repos\Atividdes\bin\Debug\Atividdes.pdb
+E:\Users\0040838\source\repos\Atividdes\obj\Debug\Atividdes.csproj.AssemblyReference.cache
+E:\Users\0040838\source\repos\Atividdes\obj\Debug\Atividdes.Form1.resources
+E:\Users\0040838\source\repos\Atividdes\obj\Debug\Atividdes.Properties.Resources.resources
+E:\Users\0040838\source\repos\Atividdes\obj\Debug\Atividdes.csproj.GenerateResource.cache
+E:\Users\0040838\source\repos\Atividdes\obj\Debug\Atividdes.csproj.CoreCompileInputs.cache
+E:\Users\0040838\source\repos\Atividdes\obj\Debug\Atividdes.exe
+E:\Users\0040838\source\repos\Atividdes\obj\Debug\Atividdes.pdb
